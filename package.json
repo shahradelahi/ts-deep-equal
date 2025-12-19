@@ -44,7 +44,7 @@
   },
   "prettier": "@shahrad/prettier-config",
   "dependencies": {
-    "@se-oss/object": "link:~/Projects/WebstormProjects/GitHub/shahradelahi/ts-object"
+    "@se-oss/object": "^1.0.0"
   },
   "devDependencies": {
     "@shahrad/eslint-config": "^1.0.1",

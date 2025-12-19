@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@se-oss/object':
-        specifier: link:~/Projects/WebstormProjects/GitHub/shahradelahi/ts-object
-        version: link:../ts-object
+        specifier: ^1.0.0
+        version: 1.0.0
     devDependencies:
       '@shahrad/eslint-config':
         specifier: ^1.0.1
@@ -606,6 +606,9 @@ packages:
     resolution: {integrity: sha512-TAcgQh2sSkykPRWLrdyy2AiceMckNf5loITqXxFI5VuQjS5tSuw3WlwdN8qv8vzjLAUTvYaH/mVjSFpbkFbpTg==}
     cpu: [x64]
     os: [win32]
+
+  '@se-oss/object@1.0.0':
+    resolution: {integrity: sha512-3IrKoKg623ibHO8uvzdcLkpxldASD0OJW5ijRbwg3CpavekuqxmThVMvOtzdXHtqLgCG8y1HZmqlTHABCdHQZw==}
 
   '@shahrad/eslint-config@1.0.1':
     resolution: {integrity: sha512-Gfjh8cdcptBjL14dWACJZ0tZy8KJdcVsOVWmyKa82v5PoLPZ4avMrT1hJyEWg0APhS1054M/udaBrlCAuHJ9XQ==}
@@ -1946,6 +1949,8 @@ snapshots:
 
   '@rollup/rollup-win32-x64-msvc@4.52.5':
     optional: true
+
+  '@se-oss/object@1.0.0': {}
 
   '@shahrad/eslint-config@1.0.1(jiti@2.5.1)(typescript@5.9.3)':
     dependencies:
