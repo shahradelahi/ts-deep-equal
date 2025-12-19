@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/deep-equal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A performant, and reliable deep equality comparison utility for JavaScript and TypeScript.",
   "keywords": [
     "deep",
