@@ -1,4 +1,4 @@
-import { isObject } from '@se-oss/object';
+import { isObject } from '@se-oss/is';
 
 import type { DeepEqualOptions } from './typings';
 
